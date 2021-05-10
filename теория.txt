@@ -30,4 +30,8 @@ git merge
 Есть команда Git Pull - объеденяет две эти команды 
 =======
 git reset --hard (не сохраняет никаких изменений) просто удаляет все изменения
->>>>>>> 65b1f715f9d4f32bc7cf7abdf057446d65352667
+git ignore 
+git checkout -b feature создание ветки
+git checkout master(смена ветки на master
+git merge feature (для мержа из 
+feature в мастер)
