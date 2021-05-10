@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 # git-demo
+<<<<<<< HEAD
 privet
 =======
 # git-demoprivet
@@ -8,4 +9,7 @@ privet
 =======
 # git-demo
 git feature
+>>>>>>> feature
+=======
+git
 >>>>>>> feature
