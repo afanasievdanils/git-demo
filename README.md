@@ -1,2 +1,2 @@
 # git-demo
-git feature
+git
