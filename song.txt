@@ -10,8 +10,4 @@ and here
 ANTON PAVLOVICH CHEHOV
 LENYA ANDREIKIN
 
-New couplet for branch
-
-FIU vetka
-FIU vetka 2
-FIU vetka 3
+song txt conflict
