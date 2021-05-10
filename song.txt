@@ -9,8 +9,4 @@ some content
 and here
 ANTON PAVLOVICH CHEHOV
 LENYA ANDREIKIN
-
-New couplet for branch
-
-main izmeneniya
-main izmeneniay
+tretii kuplet
