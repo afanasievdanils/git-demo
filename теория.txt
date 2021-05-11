@@ -39,3 +39,4 @@ git checkout --xours -xtheirs
 git diff 
 git revert ""
 user merge tool 
+git fetch --all если работал на одном компьютере и на нем не совпадают файлы (ветки)
