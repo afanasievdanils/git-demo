@@ -6,13 +6,12 @@ Adding couple of lines
 Its first line
 
 some content
-<<<<<<< HEAD
 and here
-=======
+
 and here
 ANTON PAVLOVICH CHEHOV
 LENYA ANDREIKIN
 
 song txt conflict
 tretii kuplet
->>>>>>> ea18d2c8e6da68806e0083be1afa7c3823f92e16
+song
