@@ -8,3 +8,34 @@ git commit --amend -m "commit message"
 отменить коммит git reset HEAD ^^(количество^ значит вернуть на столько то коммитов назад например вернуть назад на два коммита)
 git reset с флагом софт --soft с коммита перекидывается в индекс, по умолчанию стоит --mixed
 git reset --hard (не сохраняет никаких изменений) просто удаляет все изменения
+Клонировать репозиторий - 
+git clone git@github.com:(название)/git-demo.git
+Yes
+Пароль который вводил при создании 
+LS лист файлов 
+Для проверки гит ли это
+Git remote -v
+Создаем файл 
+вписываем текст
+git status - гит показывает где мы находимся, и показает что есть новый файл 
+Если ты хочешь добавить ее в репозиторий
+git add (название)
+Git reset (для отката)
+git commit -m"add first 2 line in the song"
+git log (история коммитов)
+Git push -(синхронизировать свой репозиторий с компом)
+git fatch - синхронизирует два репозитория но не добавляет файл по этому делают 
+git merge 
+Есть команда Git Pull - объеденяет две эти команды 
+git reset --hard (не сохраняет никаких изменений) просто удаляет все изменения
+git ignore 
+git checkout -b feature создание ветки
+git checkout master(смена ветки на master
+git merge feature (для мержа из 
+feature в мастер)
+git merge --abort прервать merge 
+git checkout --xours -xtheirs
+(если есть конфликт то с флагом x аурс примутся только наши изменения)
+git diff 
+git revert ""
+user merge tool 
