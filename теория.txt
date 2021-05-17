@@ -39,3 +39,13 @@ git checkout --xours -xtheirs
 git diff 
 git revert ""
 user merge tool 
+git fetch --all если работал на одном компьютере и на нем не совпадают файлы (ветки)
+Rebase можно делать только в маленьких бранчах, нельзя делать ребейз в мастер 
+Cherry pick для копирования комита в наш бранч не делая ребейс
+git tag version1 - накидываем тег на коммит(ветку)
+q-viitii iz loga
+git checkout version1 - перейти сразу на версию 1 
+git tag --list - лист тегов 
+git push --tags(пуш только тегов)
+git tag version 1 (nakidivaem teg)
+git stash save "description" (сохранить версию кода которая не закомиченна )
